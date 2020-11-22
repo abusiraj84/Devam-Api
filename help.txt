@@ -1,0 +1,24 @@
+
+php artisan make:controller CourseController --resource --model=Courses
+
+php artisan make:controller LessonsController --resource --model=Lessons
+
+php artisan make:controller RoleController --resource --model=Role
+
+php artisan make:controller CatsController --resource --model=Cats
+
+php artisan make:controller PricesController --resource --model=Prices
+
+php artisan make:controller SectionController --resource --model=Sections
+
+
+php artisan make:controller RoleController --resource --model=Roles
+
+
+php artisan make:model bgcolors
+
+
+
+php artisan make:controller CatController --resource --model=Cats
+
+
